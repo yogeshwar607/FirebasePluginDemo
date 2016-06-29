@@ -1,0 +1,16 @@
+{
+	"description": "NativeScript Application",
+	"license": "SEE LICENSE IN <your-license-filename>",
+	"readme": "NativeScript Application",
+	"repository": "<fill-your-repository-here>",
+	"nativescript": {
+		"id": "org.nativescript.LoginDemo",
+		"tns-ios": {
+			"version": "2.0.1"
+		}
+	},
+	"dependencies": {
+		"nativescript-plugin-firebase": "git+https://github.com/EddyVerbruggen/nativescript-plugin-firebase.git",
+		"tns-core-modules": "2.0.1"
+	}
+}
